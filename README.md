@@ -1,12 +1,13 @@
 # Jameskay-ai.github.io
 
-SUMMARY
+#SUMMARY
  
-Senior IT Consultant transitioning into AI engineering, with a focus on AWS Bedrock, Python, and Vector Store
-search technologies. Currently building hands-on projects using LangChain, Pinecone, and ChromaDB to design intelligent,
-cloud-native solutions powered by large language models. Eager to join a collaborative team working on real-world AI-driven
-related applications.
-PROFESSIONAL EXPERIENCE 
+#Senior IT Consultant transitioning into AI engineering, with a focus on AWS Bedrock, Python, and Vector Store
+#search technologies. Currently building hands-on projects using LangChain, Pinecone, and ChromaDB to design intelligent,
+#cloud-native solutions powered by large language models. Eager to join a collaborative team working on real-world AI-driven
+#related applications.
+
+#PROFESSIONAL EXPERIENCE 
 INFOSYS (IT Consulting) TOKYO, JAPAN
 Senior Consultant January 2023 – Present
 Jan 2025 – Present (Infosys AI/ML Team Initiative)
