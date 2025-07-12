@@ -11,3 +11,4 @@ Explore my work:
 
 - [AI Projects](./ai.md)
 - [Cloud Projects](./cloud.md)
+- [Python Projects](./python.md)
