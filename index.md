@@ -50,7 +50,7 @@ I’m focused on:
 📄 View my full resume and career history, including certifications and project experience.
 
 👉 [Go to Resume Page](./resume.md)  
-📥 [Download Resume (PDF)](./James Kay20250704.docx)
+📥 [Download Resume (PDF)](James Kay20250704.docx)
 
 ---
 
