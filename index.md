@@ -3,8 +3,8 @@ layout: default
 title: AI-Driven. Cloud-Built. Future-Ready.
 ---
 
-<img src="/assets/images/aws-banner.jpg" alt="AI and Cloud Banner" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
-<img src="/assets/images/Jimmy.jpg" alt="Jimmy Profile Photo" width="130" style="float: left; margin-right: 20px; border-radius: 10px;">
+<img src="/images/aws-banner.jpg" alt="AI and Cloud Banner" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
+<img src="/images/Jimmy.jpg" alt="Jimmy Profile Photo" width="130" style="float: left; margin-right: 20px; border-radius: 10px;">
 
 # James Kay's Journey into AI, Python & Cloud
 
