@@ -75,8 +75,7 @@ Eager to join a collaborative team working on real-world AI-driven related appli
 
 ---
 
-<div style="text-align: center; margin-top: 2em;">
-  <a href="./index.md" style="font-size: 1.3em; font-weight: bold; text-decoration: none;">
-    ⬅️ [Back to Home](https://jameskay-ai.github.io/)
-  </a>
-</div>
+<a href="https://linkedin.com/in/4evolutionism" target="_blank" style="text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 6px;">
+  LinkedIn
+</a>
