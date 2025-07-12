@@ -17,10 +17,10 @@ title: AI-Driven. Cloud-Built. Future-Ready.
 While I'm still growing in Python development, I’m committed to building practical tools that combine my cloud experience with emerging AI technologies.
 
 I’m focused on:
-### 🔹 Gaining hands-on experience by building real-world AI tools
-### 🔹 Applying my cloud expertise to create scalable, cost-effective systems
-### 🔹 Deepening my Python skills through consistent learning and practice
-### 🔹 Staying grounded, adaptable, and open to mentorship and growth
+🔹 Gaining hands-on experience by building real-world AI tools
+🔹 Applying my cloud expertise to create scalable, cost-effective systems
+🔹 Deepening my Python skills through consistent learning and practice
+🔹 Staying grounded, adaptable, and open to mentorship and growth
 
 ---
 
