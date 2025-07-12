@@ -44,10 +44,9 @@ I’m focused on:
 
 📧 Email: `evolutionism@outlook.jp`  
 <a href="https://linkedin.com/in/4evolutionism" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 6px;">
   LinkedIn
 </a>
-
 ---
 
 <div style="text-align: center; margin-top: 2em;">
