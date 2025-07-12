@@ -4,7 +4,7 @@ title: AI-Driven. Cloud-Built. Future-Ready.
 ---
 
 <!-- Banner Image -->
-<img src="aws-banner.jpg" alt="AI and Cloud Banner" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 30px;">
+<img src="aws banner.jpg" alt="AI and Cloud Banner" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 30px;">
 
 <!-- Profile + Heading Section -->
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
