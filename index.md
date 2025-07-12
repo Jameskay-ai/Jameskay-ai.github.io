@@ -12,7 +12,7 @@ title: AI-Driven. Cloud-Built. Future-Ready.
   <div>
     <h1 style="margin: 0;">James Kay's Journey into AI, Python & Cloud</h1>
     <p><strong>Senior IT Consultant</strong> · <strong>Cloud & Infrastructure Specialist</strong> · <strong>AI Engineer-in-Progress</strong><br>
-    📍 Based in Tokyo · 🤝 Open to Full-Time Opportunities (No Contract Roles)</p>
+    📍 Based in Tokyo · 🤝 Open to Full-Time Opportunities(No Contract)</p>
   </div>
 </div>
 
