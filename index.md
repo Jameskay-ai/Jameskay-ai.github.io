@@ -5,6 +5,9 @@ title: Welcome
 
 # Hello, I'm Jimmy
 
-This is my GitHub Pages site using the Leap Day Jekyll theme.
+Welcome to my GitHub Portfolio Site.
 
-Here I will showcase my Python, AI, and Cloud projects.
+Explore my work:
+
+- [AI Projects](./ai.md)
+- [Cloud Projects](./cloud.md)
