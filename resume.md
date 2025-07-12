@@ -71,7 +71,7 @@ Eager to join a collaborative team working on real-world AI-driven related appli
 
 ## Download
 
-📥 [Download Resume (PDF)](./James-Kay-Resume.pdf)
+📥 [Download Resume (PDF)](James-Kay-Resume.pdf)
 
 ---
 
