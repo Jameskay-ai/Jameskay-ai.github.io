@@ -77,6 +77,6 @@ Eager to join a collaborative team working on real-world AI-driven related appli
 
 <div style="text-align: center; margin-top: 2em;">
   <a href="./index.md" style="font-size: 1.3em; font-weight: bold; text-decoration: none;">
-    ⬅️ [Back to Home](./index.md)
+    ⬅️ [Back to Home](https://jameskay-ai.github.io/)
   </a>
 </div>
