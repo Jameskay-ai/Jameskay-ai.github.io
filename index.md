@@ -3,13 +3,18 @@ layout: default
 title: AI-Driven. Cloud-Built. Future-Ready.
 ---
 
-<img src="/images/aws-banner.jpg" alt="AI and Cloud Banner" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
-<img src="/images/Jimmy.jpg" alt="Jimmy Profile Photo" width="130" style="float: left; margin-right: 20px; border-radius: 10px;">
+<!-- Banner Image -->
+<img src="aws-banner.jpg" alt="AI and Cloud Banner" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 30px;">
 
-# James Kay's Journey into AI, Python & Cloud
-
-**Senior IT Consultant** · **Cloud & Infrastructure Specialist** · **AI Engineer-in-Progress**  
-📍 Based in Tokyo · 🤝 Open to Full-Time Opportunities (No Contract Roles)
+<!-- Profile + Heading Section -->
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+  <img src="Jimmy.jpg" alt="Jimmy Profile Photo" width="130" style="border-radius: 10px;">
+  <div>
+    <h1 style="margin: 0;">James Kay's Journey into AI, Python & Cloud</h1>
+    <p><strong>Senior IT Consultant</strong> · <strong>Cloud & Infrastructure Specialist</strong> · <strong>AI Engineer-in-Progress</strong><br>
+    📍 Based in Tokyo · 🤝 Open to Full-Time Opportunities (No Contract Roles)</p>
+  </div>
+</div>
 
 ---
 
