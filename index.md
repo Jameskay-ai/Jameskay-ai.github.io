@@ -32,7 +32,7 @@ I’m focused on:
 ### 🔹 [Cloud Projects](./cloud.md)  
 > *GCP network automation, AWS infrastructure scaling, Terraform setups, and multi-cloud proof-of-concepts.*
 
-### 🔹 [Python Projects}(./python.md)  
+### 🔹 [Python Projects](./python.md)  
 > *Restaurant Tip calculators, CLI apps, Streamlit demos, and backend logic experiments.*
 
 ---
