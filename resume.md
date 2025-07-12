@@ -72,6 +72,6 @@ Senior IT Consultant transitioning into AI engineering, with a focus on AWS Bedr
 
 <div style="text-align: center; margin-top: 2em;">
   <p style="font-size: 1.5em; font-weight: bold;">
-    [Back to Home](./index.md)
+   ### [Back to Home](./index.md)
   </p>
  </div>
