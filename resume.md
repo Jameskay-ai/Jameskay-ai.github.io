@@ -36,8 +36,9 @@ Senior IT Consultant transitioning into AI engineering, with a focus on AWS Bedr
 
 - ☁️ Cloud Platforms: GCP, AWS 
 - 🛠 Infrastructure: Linux, Networking (L2/L3), Terraform, Firewalls  
-- 🤖 AI & Automation: Python (ongoing), LangChain(In progress), Streamlit(Basic)  
+- 🤖 AI & Automation: Python (ongoing), LangChain(In progress), Streamlit(Basic), Python Programming
 - 🧰 Tools: Git, Replit, GitHub Pages, GitKraken, Git bash
+  
 
 ---
 
