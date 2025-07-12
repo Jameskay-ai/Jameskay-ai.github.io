@@ -45,6 +45,15 @@ I’m focused on:
 
 ---
 
+## My Resume
+
+📄 View my full resume and career history, including certifications and project experience.
+
+👉 [Go to Resume Page](./resume.md)  
+📥 [Download Resume (PDF)](./James-Kay-Resume.pdf)
+
+---
+
 ## Connect With Me
 
 📧 Email: `evolutionism@outlook.jp`  
