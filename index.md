@@ -12,5 +12,5 @@ Explore my work:
 - [AI Projects](./ai.md)
 - [Cloud Projects](./cloud.md)
 - [Python Projects]((https://replit.com/@Jameskay-ai))
-- [Python Projects](./python.md)
+
 
