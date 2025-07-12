@@ -20,9 +20,16 @@ Senior IT Consultant transitioning into AI engineering, with a focus on AWS Bedr
 ---
 ## MANAGEMENT SKILLS:
 
-Senior Stakeholder management | Cross Regional Team Management | Performance Reviews | Budget Control Management 
-| CAPEX/OPEX Budget Forecasting | Vendor Management | RFP Analysis | Project Management | Asset Management. | 
-Enterprise Application rollout project management and execution. | Risk Management/Analysis
+Senior Stakeholder management 
+Cross Regional Team Management 
+Performance Reviews 
+Budget Control Management 
+CAPEX/OPEX Budget Forecasting 
+Vendor Management 
+RFP Analysis 
+Project Management 
+Asset Management
+Risk Management/Analysis
 
 ---
 ## Core Skills
