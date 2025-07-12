@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Welcome
+title: AI-Driven. Cloud-Built. Future-Ready.
 ---
 
-# Welcome to Jimmy's AI & Cloud Portfolio
+# Jimmy’s Journey into AI, Python & Cloud
 
 **Senior IT Consultant** · **Cloud & Infrastructure Specialist** · **AI Engineer-in-Progress**  
 📍 Based in Tokyo · 🤝 Open to Full-Time Opportunities (No Contract Roles)
@@ -12,13 +12,15 @@ title: Welcome
 
 ## About Me
 
-I'm **Jimmy** — an experienced cloud consultant with a strong background in **GCP**, **AWS**, and **infrastructure management**, now expanding into the world of **AI, Python, and intelligent automation**.
+  I'm Jimmy — a seasoned cloud consultant with a strong foundation in GCP, AWS, and infrastructure management. Lately, I’ve been expanding my skill set into AI, Python, and intelligent automation — learning through hands-on projects and real-world experimentation.
 
-I believe in:
-- Building hands-on, production-grade tools with AI
-- Delivering scalable, cost-effective cloud solutions
-- Learning continuously and mentoring others
-- Staying resilient, adaptable, and sharp
+While I'm still growing in Python development, I’m committed to building practical tools that combine my cloud experience with emerging AI technologies.
+
+I’m focused on:
+### 🔹 Gaining hands-on experience by building real-world AI tools
+### 🔹 Applying my cloud expertise to create scalable, cost-effective systems
+### 🔹 Deepening my Python skills through consistent learning and practice
+### 🔹 Staying grounded, adaptable, and open to mentorship and growth
 
 ---
 
@@ -30,17 +32,21 @@ I believe in:
 ### 🔹 [Cloud Projects](./cloud.md)  
 > *GCP network automation, AWS infrastructure scaling, Terraform setups, and multi-cloud proof-of-concepts.*
 
-### 🔹 [Python Projects (Hosted on Replit)](https://replit.com/@Jameskay-ai)  
-> *Tip calculators, CLI apps, Streamlit demos, and backend logic experiments.*
+### 🔹 [Python Projects (Hosted on Replit):](https://replit.com/@Jameskay-ai)  
+> *Restaurant Tip calculators, CLI apps, Streamlit demos, and backend logic experiments.*
 
 ---
 
 ## Connect With Me
 
-📧 Email: `youremail@example.com`  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+📧 Email: `evolutionism@outlook.jp`  
+🔗 [LinkedIn](https://linkedin.com/in/4evolutionism)
 
 ---
 
-> _"Reinvention isn’t just possible — it’s powerful."_  
-Let’s build the future, one line of code at a time.
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 2em;">
+  Reinvention isn’t just possible — it’s powerful.
+</p>
+<p style="font-size: 1.2em;">
+  Let’s build the future, one line of code at a time.
+</p>
