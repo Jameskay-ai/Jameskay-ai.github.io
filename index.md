@@ -44,9 +44,11 @@ I’m focused on:
 
 ---
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 2em;">
-  Reinvention isn’t just possible — it’s powerful.
-</p>
-<p style="font-size: 1.2em;">
-  Let’s build the future, one line of code at a time.
-</p>
+<div style="text-align: center; margin-top: 2em;">
+  <p style="font-size: 1.5em; font-weight: bold;">
+    Reinvention isn’t just possible — it’s powerful.
+  </p>
+  <p style="font-size: 1.2em;">
+    Let’s build the future, one line of code at a time.
+  </p>
+</div>
