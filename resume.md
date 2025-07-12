@@ -70,3 +70,8 @@ Senior IT Consultant transitioning into AI engineering, with a focus on AWS Bedr
 
 📥 [Download as PDF](./James-Kay-Resume.pdf)
 
+<div style="text-align: center; margin-top: 2em;">
+  <p style="font-size: 1.5em; font-weight: bold;">
+    [Back to Home](https://jameskay-ai.github.io/)
+  </p>
+ </div>
