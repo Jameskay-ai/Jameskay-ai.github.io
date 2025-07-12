@@ -62,9 +62,7 @@ Senior IT Consultant transitioning into AI engineering, with a focus on AWS Bedr
 
 ---
 
-## Projects & Experience
-PENDING
-
+## [Hands-On-Projects](https://jameskay-ai.github.io/) 
 
 ---
 
