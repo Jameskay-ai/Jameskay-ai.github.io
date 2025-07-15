@@ -41,7 +41,9 @@ Eager to join a collaborative team working on real-world AI-driven related appli
 - ☁️ Cloud Platforms: GCP, AWS  
 - 🛠 Infrastructure: Linux, Networking (L2/L3), Terraform, Firewalls  
 - 🤖 AI & Automation: Python Programming(ongoing), LangChain (in progress)  
-- 🧰 Tools: Git, GitHub, GitKraken, Git Bash, VSCode, Jupyter Notebook, PYCharm, Streamlit (basic), Replit, Hugging Face
+- 🧰 Tools: Git, GitHub, GitKraken, Git Bash
+-  VSCode, Jupyter Notebook, PYCharm
+-  Streamlit (basic), Replit, Hugging Face
 
 ---
 
