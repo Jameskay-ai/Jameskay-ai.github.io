@@ -42,8 +42,8 @@ Eager to join a collaborative team working on real-world AI-driven related appli
 - 🛠 Infrastructure: Linux, Networking (L2/L3), Terraform, Firewalls  
 - 🤖 AI & Automation: Python Programming(ongoing), LangChain (in progress)  
 - 🧰 Tools: Git, GitHub, GitKraken, Git Bash
--  VSCode, Jupyter Notebook, PYCharm
--  Streamlit, Replit, Hugging Face
+- 🧰 Tools:VSCode, Jupyter Notebook, PYCharm
+- 🧰 Tools:Streamlit, Replit, Hugging Face
 
 ---
 
