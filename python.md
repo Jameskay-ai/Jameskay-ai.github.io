@@ -9,8 +9,5 @@ This portfolio page highlights Python coding exercises and real-world applicatio
 
 ## Basic Python Projects
 - **[Restaurant TIP Calculator](https://tip-splitter-jameskay-ai.replit.app/)**
-
 ## Intermediate Python Projects
-
-
 ## Advanced Python Projects
