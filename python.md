@@ -11,6 +11,6 @@ This portfolio page highlights Python coding exercises and real-world applicatio
 - **[Restaurant TIP Calculator](https://jk-tip-calculator.streamlit.app/)**
 - **[Odds & Evens](https://oddsevens.streamlit.app/)**
 
-
+## I am only getting started. more to come soon!!!
 
 
