@@ -10,7 +10,7 @@ This portfolio page highlights Python coding exercises and real-world applicatio
 ## Basic Python Projects
 - **[Restaurant TIP Calculator](https://jk-tip-calculator.streamlit.app/)**
 - **[Odds & Evens](https://oddsevens.streamlit.app/)**
-- **[Python Pizza Order](https://jk-pizzaorder.streamlit.app/)
+- **[Python Pizza Order](https://jk-pizzaorder.streamlit.app/)**
 ## I am only getting started. more to come soon!!!
 
 
