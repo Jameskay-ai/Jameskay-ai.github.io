@@ -74,7 +74,7 @@ Eager to join a collaborative team working on real-world AI-driven related appli
 
 ## Download
 
-📥 [Download Resume (PDF)](James Kay - Cloud Architect.pdf)
+📥 [Download Resume (PDF)](JamesKay-Cloud Architect.pdf)
 
 ---
 
